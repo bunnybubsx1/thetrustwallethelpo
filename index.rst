@@ -76,6 +76,3 @@ For your safety:
 - Never share your recovery phrase
 
 Stay informed. Stay safe. Stay in control of your crypto.
-
-** Can I download the Canon ij printer ts3522 software on my computer?**
-**Yes.** Visit `ij.start.canon <https://ij.start.canon>`_ and follow the steps to download and install it.
