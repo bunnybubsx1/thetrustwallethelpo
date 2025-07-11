@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Canon Support'
+project = 'The Trust Wallets'
 
 
 # The full version, including alpha/beta/rc tags
@@ -25,7 +25,7 @@ project = 'Canon Support'
 
 
 html_meta = {
-    "msvalidate.01": "EC1CC2EBFA11DD5C3D82B1E823DE7278"
+    "msvalidate.01": "033863D57B8863837FC51FD2941E1650"
    
 }
 
