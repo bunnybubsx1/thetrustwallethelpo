@@ -5,16 +5,6 @@ Trust Wallet Help: How to Safely Get Support & Stay Protected in 2025
 .. meta::
    :msvalidate.01: 
 
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
-
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
-
 If you're using Trust Wallet to manage your crypto, you're not alone — millions rely on it for secure and easy access to digital assets. But what happens when something goes wrong? Whether it's a login issue, a missing transaction, or a general question, getting **Trust Wallet help** safely is essential.
 
 This guide explains where to find **TrustWallet contact** information, how support works, and how to avoid fake **TrustWallet phone numbers** or scams.
